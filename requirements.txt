@@ -1,0 +1,4 @@
+pyotp==2.9.0
+kiteconnect==5.0.0
+PyYAML==6.0.1
+selenium==4.15.2
